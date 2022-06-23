@@ -1,0 +1,19 @@
+{
+  "name": "docx-verifier",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "move-file": "^3.0.0",
+    "officeparser": "^2.3.0",
+    "word-extractor": "^1.0.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index"
+  },
+  "author": "",
+  "license": "ISC",
+  "type": "module"
+}
